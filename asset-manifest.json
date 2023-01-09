@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/student-card/static/css/main.073c9b0a.css",
+    "main.js": "/student-card/static/js/main.f9504b34.js",
+    "static/js/787.42063078.chunk.js": "/student-card/static/js/787.42063078.chunk.js",
+    "static/media/logo.svg": "/student-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/student-card/index.html",
+    "main.073c9b0a.css.map": "/student-card/static/css/main.073c9b0a.css.map",
+    "main.f9504b34.js.map": "/student-card/static/js/main.f9504b34.js.map",
+    "787.42063078.chunk.js.map": "/student-card/static/js/787.42063078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f9504b34.js"
+  ]
+}
