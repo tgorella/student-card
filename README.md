@@ -1,2 +1,1 @@
-# Getting Started with Create React App
-
+# https://tgorella.github.io/student-card/
